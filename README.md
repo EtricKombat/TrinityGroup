@@ -6,10 +6,10 @@ Listing of sectors and possibilities'
 
 <table>
 <tr><th>SlNo</th><th>Link</th><th>Description</th></tr>
-  <tr><td>1.</td><td><a href="">Link</a></td><td>Fishies</td></tr>
-  <tr><td>2.</td><td><a href="">Link</a></td><td>Transportation</td></tr>
-  <tr><td>3.</td><td><a href="">Link</a></td><td>Botanical </td></tr>
-  <tr><td>4.</td><td><a href="">Link</a></td><td>packing </td></tr>
+  <tr><td>1.</td><td><a href="">Link</a></td><td>Fishies (vn)</td></tr>
+  <tr><td>2.</td><td><a href="">Link</a></td><td>Transportation(stee/vn)</td></tr>
+  <tr><td>3.</td><td><a href="">Link</a></td><td>Botanical (jimmy,babyach)</td></tr>
+  <tr><td>4.</td><td><a href="">Link</a></td><td>packing (baij)</td></tr>
 </table>
 
 
