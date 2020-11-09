@@ -6,9 +6,9 @@ Listing of sectors and possibilities'
 
 <table>
 <tr><th>SlNo</th><th>Link</th><th>Description</th></tr>
-  <tr><td>1.</td><td></td><td>Fishies</td></tr>
-  <tr><td>2.</td><td></td><td>Transportation</td></tr>
-  <tr><td>3.</td><td></td><td>Botanical </td></tr>
+  <tr><td>1.</td><td><a href="">Link</a></td><td>Fishies</td></tr>
+  <tr><td>2.</td><td><a href="">Link</a></td><td>Transportation</td></tr>
+  <tr><td>3.</td><td><a href="">Link</a></td><td>Botanical </td></tr>
 </table>
 
 
