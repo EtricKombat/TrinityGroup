@@ -25,6 +25,3 @@ Listing of sectors and possibilities'
 </table>
 
 
-
-
-
